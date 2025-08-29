@@ -1,0 +1,2 @@
+# Reflection file 
+Using branches within git is a must especially when collaborating on a project with a team of software engineers. This is because branches provide a way for each team member to work on separate features without interfering with the main codebase of the project, which unwanted modifications and bugs that would be difficult to detect later on. Furthermore, branches are great for members to evaluate each other’s code, allowing the team to decide what branch would be best to merge with their project.
